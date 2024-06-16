@@ -15,3 +15,5 @@ fetcher = NSEFETCHER(["RELIANCE", "TCS"])
 all_stock_data = fetcher.gather_all_data()
 print(all_stock_data)
 
+from nsegpt 
+
